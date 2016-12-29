@@ -1,5 +1,5 @@
-# CS-102-Final-Project
-Graphically Represent any CSV File
+# tigeriv-project07
+project07 created for tigeriv
 
 Brief description of submitted files:
 
